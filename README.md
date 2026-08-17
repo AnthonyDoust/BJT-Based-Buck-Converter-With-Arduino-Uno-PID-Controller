@@ -4,7 +4,7 @@ This Buck converter uses a Arduino MC running a PID controller to adjust the PWM
 
 
 
-Max Ratings
+Max Ratings:
 
 Power: 0.5W
 
