@@ -2,6 +2,7 @@
 
 This Buck converter uses a Arduino MC running a PID controller to adjust the PWM output to reach a desired voltage, using a voltage divider in the feedback loop.
 
+Due to the use of the BJT Transistors, the switching noise is very high, and thus the buck converter shouldn't be used to power sensitive loads.
 
 
 Max Ratings:
@@ -14,7 +15,7 @@ Voltage: 35V
 
 
 
-Due to the use of the BJT Transistors, the switching noise is very high, and thus the buck converter probably shouldn't be used to power sensitive loads.
+
 
 
 
